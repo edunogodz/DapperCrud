@@ -1,0 +1,13 @@
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\bin\Debug\DapperCrud.exe.config
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\bin\Debug\DapperCrud.exe
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\bin\Debug\DapperCrud.pdb
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\bin\Debug\Dapper.dll
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\bin\Debug\Dapper.xml
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\obj\Debug\DapperCrud.csprojAssemblyReference.cache
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\obj\Debug\DapperCrud.Form1.resources
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\obj\Debug\DapperCrud.Properties.Resources.resources
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\obj\Debug\DapperCrud.csproj.GenerateResource.cache
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\obj\Debug\DapperCrud.csproj.CoreCompileInputs.cache
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\obj\Debug\DapperCrud.csproj.CopyComplete
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\obj\Debug\DapperCrud.exe
+C:\Code\repos\YouTube_Vetrivel_D\DapperCrud\DapperCrud\obj\Debug\DapperCrud.pdb

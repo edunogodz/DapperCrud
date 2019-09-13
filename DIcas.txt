@@ -1,0 +1,1 @@
+Package Manager Console = install-Package Dapper -Version 1.50.2
