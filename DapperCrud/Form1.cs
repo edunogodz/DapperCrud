@@ -88,7 +88,6 @@ Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
             try
             {
                 FillDataGridView();
