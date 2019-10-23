@@ -76,6 +76,7 @@
             this.dgvEmployee.Location = new System.Drawing.Point(420, 40);
             this.dgvEmployee.Name = "dgvEmployee";
             this.dgvEmployee.ReadOnly = true;
+            this.dgvEmployee.RowHeadersVisible = false;
             this.dgvEmployee.Size = new System.Drawing.Size(461, 275);
             this.dgvEmployee.TabIndex = 3;
             this.dgvEmployee.DoubleClick += new System.EventHandler(this.DgvEmployee_DoubleClick);
